@@ -2,15 +2,30 @@ Q1. Write a function in python to find the Even values from dataset accepted [54
     dataset = [44, 45, 46, 47, 48, 49, 50, 51, 52, 53,58,78, 79, 80,34,34,34,45,45]
 
 
-Q2. Write a function in python to find 2rd maximum values from dataset
+Q2. Write a function in python to find 2nd maximum values from dataset
     dataset = [20,67,3,2.6,7,74,2.8,90.8,52.8,4,3,2,5,7]
 
 
-Q3. Suppose you want to purchase one mobile phone from mobil shop perform following operations with the help of list tuple,dictionary
+Q3. 2nd Highest Score
+The score of N players is given and you have to find the highest score of an individual.
 
-	a. Display list of mobile phone with price
-	b. Calculate Price of according to total no of mobile phone purchased by customer
-	c. Display updated list of Mobile phone with price
+Input Format
+	The first line of input consists of number of players, N
+	The second line of input consist of N separated scores of players
+
+Sample TestCase
+    Input:
+
+   	 5
+         12
+         14
+         89
+         67
+         89
+
+    Output:
+
+         67
 
 
 Q4. write a function in python to remove duplicates from a list.
